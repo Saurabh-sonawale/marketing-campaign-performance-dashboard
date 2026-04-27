@@ -1,0 +1,2 @@
+-- Marketing Campaign Performance SQL Analysis
+-- Queries will be added after the dataset is generated and cleaned.
